@@ -1,0 +1,19 @@
+body{
+  background-color: antiquewhite;
+}
+
+hr{
+  background-color: inherit;
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
